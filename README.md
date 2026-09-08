@@ -1,8 +1,8 @@
 
-Legal       -> https://ikhlasahmed0609.github.io/onehealth-legal/index.html
+Legal Website -> https://ikhlasahmed0609.github.io/onehealth-legal/index.html
 <br/>
-Firebase     -> https://console.firebase.google.com/
+Firebase      -> https://console.firebase.google.com/
 <br/>
-Google Cloud -> https://console.cloud.google.com/
+Google Cloud  -> https://console.cloud.google.com/
 <br/>
 
